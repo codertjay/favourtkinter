@@ -1,0 +1,3 @@
+                    Tkinter note
+
+1) To exit a program on a button you use command = root.quit
